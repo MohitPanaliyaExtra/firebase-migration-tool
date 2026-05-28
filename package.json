@@ -2,7 +2,7 @@
   "name": "firebase-migration-tool",
   "version": "1.0.0",
   "private": true,
-  "description": "Web-based Firebase-to-Firebase data migration tool with collection discovery, nested subcollection support, and real-time progress tracking",
+  "description": "Web-based Firebase-to-Firebase Firestore data migration tool with collection discovery, nested subcollection support, named database support, and real-time progress tracking",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
