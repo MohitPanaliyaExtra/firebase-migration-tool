@@ -1,0 +1,25 @@
+{
+  "name": "firebase-migration-tool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Web-based Firebase-to-Firebase data migration tool with collection discovery, nested subcollection support, and real-time progress tracking",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "firebase": "^10.14.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^3.4.0"
+  }
+}
